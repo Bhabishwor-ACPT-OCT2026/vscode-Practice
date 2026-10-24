@@ -1,0 +1,7 @@
+hello from VS code!
+save the file by pressing ctrl + save
+or use file >save
+if I edit this file (write, delet) then Dot apperars
+next to this file tab instead of Close (X) sign.
+it indicates unsave changes. 
+After saving , the dot disappears autoatically.

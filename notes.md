@@ -1,0 +1,1 @@
+The .md extension means Markdown, a format commonly used for documentation.
